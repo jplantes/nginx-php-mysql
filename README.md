@@ -26,7 +26,7 @@ Agregar el siguiente contenido al final de la exprexion
     ##
 
     include /etc/nginx/conf.d/*.conf;
-    **include /etc/nginx/sites-enabled/*;**
+    include /etc/nginx/sites-enabled/*;
   }
 ```
 
