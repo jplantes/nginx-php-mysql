@@ -28,7 +28,7 @@ Agregar el siguiente contenido al final de la exprexion
     include /etc/nginx/conf.d/*.conf;
     **include /etc/nginx/sites-enabled/*;**
   }
-´´´
+```
 
 Esta linea levantara los nuevos sitio que vayamos reando
 
@@ -44,7 +44,7 @@ Agrgar al final del archivo hosts la siguientes lineas
   # Creador por mi Script
 
   #@URL@
-´´´
+```
 
 
 ## Datos para la configuración de los Scripts
